@@ -1,7 +1,7 @@
 // First Recurring Character
 import java.util.HashSet;
 import java.util.Set;
-public class firstRepeating{
+public class FirstRepeating{
     public static void main(String[] args) {
 
         String inputChar = "balloon"; // input Character
